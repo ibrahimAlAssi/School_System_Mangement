@@ -1,8 +1,8 @@
 # School_System_Mangement
-##School System Management (07/2022 - 12/2022)
-##Developed a comprehensive school system management
-##application using Laravel, allowing users with distinct roles to
-##log in:
+## School System Management (07/2022 - 12/2022)
+## Developed a comprehensive school system management
+## application using Laravel, allowing users with distinct roles to
+## log in:
 - Admin: Implemented a secure admin panel with advanced
     privileges for managing students, teachers, courses, and
     school resources. Admins can perform actions such as user
