@@ -32,6 +32,15 @@
 
   
 ## Installation:
+
+```
+git clone https://github.com/ibrahimAlAssi/School_System_Mangement.git
+```
+
+```
+cd School_System_Mangement
+```
+
 ```
 composer install
 ```
