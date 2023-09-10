@@ -16,9 +16,9 @@
   ####  functionalities. Teachers can input grades, mark attendance, and update curriculum materials.
 
 - ### Student:
-  ### Created a student portal enabling access to academic.
-  ####  records, course schedules, and homework assignments. Students can view their grades, class schedules, and submit
-  ####  assignments.
+  #### Created a student portal enabling access to academic.
+  ####  records, course schedules, and homework assignments.
+  #### Students can view their grades, class schedules, and submit assignments.
   
 - ### Parent: 
   #### Developed a parent portal enabling real-time access to
