@@ -5,8 +5,8 @@
 ### log in:
 
 - ## Admin:
-  ### Implemented a secure admin panel with advanced  privileges for managing students, teachers, courses, and school resources.
-  ###  Admins can perform actions such as user management, data analytics, and report generation.
+  ### Implemented a secure admin panel with advanced privileges for managing students  , teachers , courses, and school resources.
+  ###  Admins can perform actions such as user management, data analytics , and report generation.
   
 - ## Teacher:
   ### Designed a teacher dashboard providing grade management, attendance tracking, and lesson planning functionalities.
@@ -17,14 +17,12 @@
   ### Students can view their grades, class schedules, and submit assignments.
   
 - ## Parent: 
-  ### Developed a parent portal enabling real-time access to
-  ###  their child's academic progress, attendance records, and
-  ###  school announcements. Parents can view student reports.
+  ### Developed a parent portal enabling real-time access to their child's academic progress, attendance records, and school announcements. Parents can view student reports.
 
   
 ## installation
 ```
- composer install
+composer install
 ```
 
 ```
