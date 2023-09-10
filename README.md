@@ -20,7 +20,7 @@
   ### Developed a parent portal enabling real-time access to their child's academic progress, attendance records, and school announcements. Parents can view student reports.
 
   
-## installation
+## Installation:
 ```
 composer install
 ```
